@@ -40,7 +40,7 @@ background-color: bisque;
 border: 1px solid black;
 }
 .uu {
-    box-sizing: 300px;
+    box-sizing:border-box;
     background-color: aqua;
     padding-right: 25px;
     padding-left: 25px;
